@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="episode_picker:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/episode_picker_jar</output-path>
+    <root id="archive" name="episode_picker.jar">
+      <element id="module-output" name="episode_picker" />
+    </root>
+  </artifact>
+</component>
