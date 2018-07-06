@@ -5,7 +5,7 @@ import java.util.Random;
 
 class EpisodeList {
 
-    private ArrayList<Episode> episodes = new ArrayList<>();
+    private ArrayList<Episode> episodes;
 
     EpisodeList() {
         episodes = new ArrayList<>();
@@ -13,10 +13,6 @@ class EpisodeList {
 
     void addEpisode(Episode episode) {
         episodes.add(episode);
-    }
-
-    Episode getEpisode(int episodeNumber) {
-        return episodes.get(episodeNumber + 1);
     }
 
     Episode getRandomEpisode() {

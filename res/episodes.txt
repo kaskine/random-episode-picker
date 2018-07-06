@@ -1,140 +1,141 @@
-1	"""Space Pilot 3000"""
-2	"""The Series Has Landed"""
-3	"""I, Roommate"""
-4	"""Love's Labours Lost in Space"""
-5	"""Fear of a Bot Planet"""
-6	"""A Fishful of Dollars"""
-7	"""My Three Suns"""
-8	"""A Big Piece of Garbage"""
-9	"""Hell Is Other Robots"""
-10	"""A Flight to Remember"""
-11	"""Mars University"""
-12	"""When Aliens Attack"""
-13	"""Fry and the Slurm Factory"""
-1	"""I Second That Emotion"""
-2	"""Brannigan, Begin Again"""
-3	"""A Head in the Polls"""
-4	"""Xmas Story"""
-5	"""Why Must I Be a Crustacean in Love?"""
-6	"""The Lesser of Two Evils"""
-7	"""Put Your Head on My Shoulders"""
-8	"""Raging Bender"""
-9	"""A Bicyclops Built for Two"""
-10	"""A Clone of My Own"""
-11	"""How Hermes Requisitioned His Groove Back"""
-12	"""The Deep South"""
-13	"""Bender Gets Made"""
-14	"""Mother's Day"""
-15	"""The Problem with Popplers"""
-16	"""Anthology of Interest I"""
-17	"""War Is the H-Word"""
-18	"""The Honking"""
-19	"""The Cryonic Woman"""
-1	"""Amazon Women in the Mood"""
-2	"""Parasites Lost"""
-3	"""A Tale of Two Santas"""
-4	"""The Luck of the Fryrish"""
-5	"""The Birdbot of Ice-Catraz"""
-6	"""Bendless Love"""
-7	"""The Day the Earth Stood Stupid"""
-8	"""That's Lobstertainment!"""
-9	"""The Cyber House Rules"""
-10	"""Where the Buggalo Roam"""
-11	"""Insane in the Mainframe"""
-12	"""The Route of All Evil"""
-13	"""Bendin' in the Wind"""
-14	"""Time Keeps On Slippin'"""
-15	"""I Dated a Robot"""
-16	"""A Leela of Her Own"""
-17	"""A Pharaoh to Remember"""
-18	"""Anthology of Interest II"""
-19	"""Roswell That Ends Well"""
-20	"""Godfellas"""
-21	"""Future Stock"""
-22	"""The 30% Iron Chef"""
-1	"""Kif Gets Knocked Up a Notch"""
-2	"""Leela's Homeworld"""
-3	"""Love and Rocket"""
-4	"""Less Than Hero"""
-5	"""A Taste of Freedom"""
-6	"""Bender Should Not Be Allowed on TV"""
-7	"""Jurassic Bark"""
-8	"""Crimes of the Hot"""
-9	"""Teenage Mutant Leela's Hurdles"""
-10	"""The Why of Fry"""
-11	"""Where No Fan Has Gone Before"""
-12	"""The Sting"""
-13	"""Bend Her"""
-14	"""Obsoletely Fabulous"""
-15	"""The Farnsworth Parabox"""
-16	"""Three Hundred Big Boys"""
-17	"""Spanish Fry"""
-18	"""The Devil's Hands Are Idle Playthings"""
-1	"""Bender's Big Score""(Part 1)"
-2	"""Bender's Big Score""(Part 2)"
-3	"""Bender's Big Score""(Part 3)"
-4	"""Bender's Big Score""(Part 4)"
-5	"""The Beast with a Billion Backs""(Part 1)"
-6	"""The Beast with a Billion Backs""(Part 2)"
-7	"""The Beast with a Billion Backs""(Part 3)"
-8	"""The Beast with a Billion Backs""(Part 4)"
-9	"""Bender's Game""(Part 1)"
-10	"""Bender's Game""(Part 2)"
-11	"""Bender's Game""(Part 3)"
-12	"""Bender's Game""(Part 4)"
-13	"""Into the Wild Green Yonder""(Part 1)"
-14	"""Into the Wild Green Yonder""(Part 2)"
-15	"""Into the Wild Green Yonder""(Part 3)"
-16	"""Into the Wild Green Yonder""(Part 4)"
-1	"""Rebirth"""
-2	"""In-A-Gadda-Da-Leela"""
-3	"""Attack of the Killer App"""
-4	"""Proposition Infinity"""
-5	"""The Duh-Vinci Code"""
-6	"""Lethal Inspection"""
-7	"""The Late Philip J. Fry"""
-8	"""That Darn Katz!"""
-9	"""A Clockwork Origin"""
-10	"""The Prisoner of Benda"""
-11	"""Lrrreconcilable Ndndifferences"""
-12	"""The Mutants Are Revolting"""
-13	"""The Futurama Holiday Spectacular"""
-14	"""The Silence of the Clamps"""
-15	"""Mobius Dick"""
-16	"""Law and Oracle"""
-17	"""Benderama"""
-18	"""The Tip of the Zoidberg"""
-19	"""Ghost in the Machines"""
-20	"""Neutopia"""
-21	"""Yo Leela Leela"""
-22	"""Fry Am the Egg Man"""
-23	"""All the Presidents' Heads"""
-24	"""Cold Warriors"""
-25	"""Overclockwise"""
-26	"""Reincarnation"""
-1	"""The Bots and the Bees"""
-2	"""A Farewell to Arms"""
-3	"""Decision 3012"""
-4	"""The Thief of Baghead"""
-5	"""Zapp Dingbat"""
-6	"""The Butterjunk Effect"""
-7	"""The Six Million Dollar Mon"""
-8	"""Fun on a Bun"""
-9	"""Free Will Hunting"""
-10	"""Near-Death Wish"""
-11	"""31st Century Fox"""
-12	"""Viva Mars Vegas"""
-13	"""Naturama"""
-14	"""Forty Percent Leadbelly"""
-15	"""2-D Blacktop"""
-16	"""T.: The Terrestrial"""
-17	"""Fry and Leela's Big Fling"""
-18	"""The Inhuman Torch"""
-19	"""Saturday Morning Fun Pit"""
-20	"""Calculon 2.0"""
-21	"""Assie Come Home"""
-22	"""Leela and the Genestalk"""
-23	"""Game of Tones"""
-24	"""Murder on the Planet Express"""
-25	"""Stench and Stenchibility"""
-26	"""Meanwhile"""
+1	1	"Space Pilot 3000"	Rich Moore & Gregg Vanzo	David X. Cohen & Matt Groening	March 28, 1999	1ACV01	S01E01
+2	2	"The Series Has Landed"	Peter Avanzino	Ken Keeler	April 4, 1999	1ACV02	S01E02
+3	3	"I, Roommate"	Bret Haaland	Eric Horsted	April 6, 1999	1ACV03	S01E03
+4	4	"Love's Labours Lost in Space"	Brian Sheesley	Brian Kelley	April 13, 1999	1ACV04	S01E04
+5	5	"Fear of a Bot Planet"	Peter Avanzino & Carlos Baeza	Evan Gore & Heather Lombard	April 20, 1999	1ACV05	S01E05
+6	6	"A Fishful of Dollars"	Ron Hughart & Gregg Vanzo	Patric M. Verrone	April 27, 1999	1ACV06	S01E06
+7	7	"My Three Suns"	Jeffrey Lynch & Kevin O'Brien	J. Stewart Burns	May 4, 1999	1ACV07	S01E07
+8	8	"A Big Piece of Garbage"	Susan Dietter	Lewis Morton	May 11, 1999	1ACV08	S01E08
+9	9	"Hell Is Other Robots"	Rich Moore	Eric Kaplan	May 18, 1999	1ACV09	S01E09
+10	10	"A Flight to Remember"	Peter Avanzino	Eric Horsted	September 26, 1999	1ACV10	S02E01
+11	11	"Mars University"	Bret Haaland	J. Stewart Burns	October 3, 1999	1ACV11	S02E02
+12	12	"When Aliens Attack"	Brian Sheesley	Ken Keeler	November 7, 1999	1ACV12	S02E03
+13	13	"Fry and the Slurm Factory"	Ron Hughart	Lewis Morton	November 14, 1999	1ACV13	S02E04
+14	1	"I Second That Emotion"	Mark Ervin	Patric M. Verrone	November 21, 1999	2ACV01	S02E05
+15	2	"Brannigan, Begin Again"	Jeffrey Lynch	Lewis Morton	November 28, 1999	2ACV02	S02E06
+16	3	"A Head in the Polls"	Bret Haaland	J. Stewart Burns	December 12, 1999	2ACV03	S02E07
+17	4	"Xmas Story"	Peter Avanzino	David X. Cohen	December 19, 1999	2ACV04	S02E08
+18	5	"Why Must I Be a Crustacean in Love?"	Brian Sheesley	Eric Kaplan	February 6, 2000	2ACV05	S02E09
+19	6	"The Lesser of Two Evils"	Chris Sauve	Eric Horsted	February 20, 2000	2ACV06	S02E11
+20	7	"Put Your Head on My Shoulders"	Chris Louden	Ken Keeler	February 13, 2000	2ACV07	S02E10
+21	8	"Raging Bender"	Ron Hughart	Lewis Morton	February 27, 2000	2ACV08	S02E12
+22	9	"A Bicyclops Built for Two"	Susan Dietter	Eric Kaplan	March 19, 2000	2ACV09	S02E13
+23	10	"A Clone of My Own"	Rich Moore	Patric M. Verrone	April 9, 2000	2ACV10	S02E15
+24	11	"How Hermes Requisitioned His Groove Back"	Mark Ervin	Bill Odenkirk	April 2, 2000	2ACV11	S02E14
+25	12	"The Deep South"	Bret Haaland	J. Stewart Burns	April 16, 2000	2ACV12	S02E16
+26	13	"Bender Gets Made"	Peter Avanzino	Eric Horsted	April 30, 2000	2ACV13	S02E17
+27	14	"Mother's Day"	Brian Sheesley	Lewis Morton	May 14, 2000	2ACV14	S02E19
+28	15	"The Problem with Popplers"	Chris Sauve & Gregg Vanzo	Story by : Darin Henry & Patric M. Verrone	May 7, 2000	2ACV15	S02E18
+29	16	"Anthology of Interest I"	Chris Louden & Rich Moore	Eric Rogers, Ken Keeler and David X. Cohen	May 21, 2000	2ACV16	S02E20
+30	17	"War Is the H-Word"	Ron Hughart	Eric Horsted	November 26, 2000	2ACV17	S03E02
+31	18	"The Honking"	Susie Dietter	Ken Keeler	November 5, 2000	2ACV18	S03E01
+32	19	"The Cryonic Woman"	Mark Ervin	J. Stewart Burns	December 3, 2000	2ACV19	S03E03
+33	1	"Amazon Women in the Mood"	Brian Sheesley	Lewis Morton	February 4, 2001	3ACV01	S03E05
+34	2	"Parasites Lost"	Peter Avanzino	Eric Kaplan	January 21, 2001	3ACV02	S03E04
+35	3	"A Tale of Two Santas"	Ron Hughart	Bill Odenkirk	December 16, 2001	3ACV03	S04E02
+36	4	"The Luck of the Fryrish"	Chris Louden	Ron Weiner	March 11, 2001	3ACV04	S03E10
+37	5	"The Birdbot of Ice-Catraz"	James Purdum	Dan Vebber	March 4, 2001	3ACV05	S03E09
+38	6	"Bendless Love"	Swinton O. Scott III	Eric Horsted	February 11, 2001	3ACV06	S03E06
+39	7	"The Day the Earth Stood Stupid"	Mark Ervin	Teleplay by : Jeff Westbrook	February 18, 2001	3ACV07	S03E07
+40	8	"That's Lobstertainment!"	Bret Haaland	Patric M. Verrone	February 25, 2001	3ACV08	S03E08
+41	9	"The Cyber House Rules"	Susie Dietter	Lewis Morton	April 1, 2001	3ACV09	S03E11
+42	10	"Where the Buggalo Roam"	Patty Shinagawa	J. Stewart Burns	March 3, 2002	3ACV10	S04E06
+43	11	"Insane in the Mainframe"	Peter Avanzino	Bill Odenkirk	April 8, 2001	3ACV11	S03E12
+44	12	"The Route of All Evil"	Brian Sheesley	Dan Vebber	December 8, 2002	3ACV12	S05E03
+45	13	"Bendin' in the Wind"	Ron Hughart	Eric Horsted	April 22, 2001	3ACV13	S03E13
+46	14	"Time Keeps On Slippin'"	Chris Louden	Ken Keeler	May 6, 2001	3ACV14	S03E14
+47	15	"I Dated a Robot"	James Purdum	Eric Kaplan	May 13, 2001	3ACV15	S03E15
+48	16	"A Leela of Her Own"	Swinton O. Scott III	Patric M. Verrone	April 7, 2002	3ACV16	S04E10
+49	17	"A Pharaoh to Remember"	Mark Ervin	Ron Weiner	March 10, 2002	3ACV17	S04E07
+50	18	"Anthology of Interest II"	Bret Haaland	Lewis Morton David X. Cohen Jason Gorbett & Scott Kirby	January 6, 2002	3ACV18	S04E03
+51	19	"Roswell That Ends Well"	Rich Moore	J. Stewart Burns	December 9, 2001	3ACV19	S04E01
+52	20	"Godfellas"	Susie Dietter	Ken Keeler	March 17, 2002	3ACV20	S04E08
+53	21	"Future Stock"	Brian Sheesley	Aaron Ehasz	March 31, 2002	3ACV21	S04E09
+54	22	"The 30% Iron Chef"	Ron Hughart	Jeff Westbrook	April 14, 2002	3ACV22	S04E11
+55	1	"Kif Gets Knocked Up a Notch"	Wes Archer	Bill Odenkirk	January 12, 2003	4ACV01	S05E05
+56	2	"Leela's Homeworld"	Mark Ervin	Kristin Gore	February 17, 2002	4ACV02	S04E05
+57	3	"Love and Rocket"	Brian Sheesley	Dan Vebber	February 10, 2002	4ACV03	S04E04
+58	4	"Less Than Hero"	Susie Dietter	Ron Weiner	March 2, 2003	4ACV04	S05E06
+59	5	"A Taste of Freedom"	James Purdum	Eric Horsted	December 22, 2002	4ACV05	S05E04
+60	6	"Bender Should Not Be Allowed on TV"	Ron Hughart	Lewis Morton	August 3, 2003	4ACV06	S05E15
+61	7	"Jurassic Bark"	Swinton O. Scott III	Eric Kaplan	November 17, 2002	4ACV07	S05E02
+62	8	"Crimes of the Hot"	Peter Avanzino	Aaron Ehasz	November 10, 2002	4ACV08	S05E01
+63	9	"Teenage Mutant Leela's Hurdles"	Bret Haaland	Jeff Westbrook	March 30, 2003	4ACV09	S05E07
+64	10	"The Why of Fry"	Wes Archer	David X. Cohen	April 6, 2003	4ACV10	S05E08
+65	11	"Where No Fan Has Gone Before"	Patty Shinagawa	David A. Goodman	April 21, 2002	4ACV11	S04E12
+66	12	"The Sting"	Brian Sheesley	Patric M. Verrone	June 1, 2003	4ACV12	S05E09
+67	13	"Bend Her"	James Purdum	Michael Rowe	July 20, 2003	4ACV13	S05E13
+68	14	"Obsoletely Fabulous"	Dwayne Carey-Hill	Dan Vebber	July 27, 2003	4ACV14	S05E14
+69	15	"The Farnsworth Parabox"	Ron Hughart	Bill Odenkirk	June 8, 2003	4ACV15	S05E10
+70	16	"Three Hundred Big Boys"	Swinton O. Scott III	Eric Kaplan	June 15, 2003	4ACV16	S05E11
+71	17	"Spanish Fry"	Peter Avanzino	Ron Weiner	July 13, 2003	4ACV17	S05E12
+72	18	"The Devil's Hands Are Idle Playthings"	Bret Haaland	Ken Keeler	August 10, 2003	4ACV18	S05E16
+73	1	"Bender's Big Score" (Part 1)	Dwayne Carey-Hill	Story by : Ken Keeler & David X. Cohen Teleplay by : Ken Keeler	March 23, 2008	5ACV01	S00E01
+74	2	"Bender's Big Score" (Part 2)	Dwayne Carey-Hill	Story by : Ken Keeler & David X. Cohen Teleplay by : Ken Keeler	March 23, 2008	5ACV02	S00E02
+75	3	"Bender's Big Score" (Part 3)	Dwayne Carey-Hill	Story by : Ken Keeler & David X. Cohen Teleplay by : Ken Keeler	March 23, 2008	5ACV03	S00E03
+76	4	"Bender's Big Score" (Part 4)	Dwayne Carey-Hill	Story by : Ken Keeler & David X. Cohen Teleplay by : Ken Keeler	March 23, 2008	5ACV04	S00E04
+77	5	"The Beast with a Billion Backs" (Part 1)	Peter Avanzino	Story by : Eric Kaplan & David X. Cohen Teleplay by : Eric Kaplan	October 19, 2008	5ACV05	S00E05
+78	6	"The Beast with a Billion Backs" (Part 2)	Peter Avanzino	Story by : Eric Kaplan & David X. Cohen Teleplay by : Eric Kaplan	October 19, 2008	5ACV06	S00E06
+79	7	"The Beast with a Billion Backs" (Part 3)	Peter Avanzino	Story by : Eric Kaplan & David X. Cohen Teleplay by : Eric Kaplan	October 19, 2008	5ACV07	S00E07
+80	8	"The Beast with a Billion Backs" (Part 4)	Peter Avanzino	Story by : Eric Kaplan & David X. Cohen Teleplay by : Eric Kaplan	October 19, 2008	5ACV08	S00E08
+81	9	"Bender's Game" (Part 1)	Dwayne Carey-Hill	Story by : Eric Horsted & David X. Cohen Teleplay by : Eric Horsted	April 26, 2009	5ACV09	S00E09
+82	10	"Bender's Game" (Part 2)	Dwayne Carey-Hill	Story by : Eric Horsted & David X. Cohen Teleplay by : Eric Horsted	April 26, 2009	5ACV10	S00E10
+83	11	"Bender's Game" (Part 3)	Dwayne Carey-Hill	Story by : Eric Horsted & David X. Cohen Teleplay by : Michael Rowe & Eric Kaplan	April 26, 2009	5ACV11	S00E11
+84	12	"Bender's Game" (Part 4)	Dwayne Carey-Hill	Story by : Eric Horsted & David X. Cohen Teleplay by : David X. Cohen & Patric M. Verrone	April 26, 2009	5ACV12	S00E12
+85	13	"Into the Wild Green Yonder" (Part 1)	Peter Avanzino	Story by : Ken Keeler & David X. Cohen Teleplay by : Ken Keeler	August 30, 2009	5ACV13	S00E13
+86	14	"Into the Wild Green Yonder" (Part 2)	Peter Avanzino	Ken Keeler	August 30, 2009	5ACV14	S00E14
+87	15	"Into the Wild Green Yonder" (Part 3)	Peter Avanzino	Ken Keeler	August 30, 2009	5ACV15	S00E15
+88	16	"Into the Wild Green Yonder" (Part 4)	Peter Avanzino	Story by : Ken Keeler & David X. Cohen Teleplay by : Ken Keeler	August 30, 2009	5ACV16	S00E16
+89	1	"Rebirth"	Frank Marino	Story by : David X. Cohen & Matt Groening Teleplay by : David X. Cohen	June 24, 2010	6ACV01	2.92[8]	S06AE01
+90	2	"In-A-Gadda-Da-Leela"	Dwayne Carey-Hill	Story by : Carolyn Premish & Matt Groening Teleplay by : Carolyn Premish	June 24, 2010	6ACV02	2.78[8]	S06AE02
+91	3	"Attack of the Killer App"	Stephen Sandoval	Patric M. Verrone	July 1, 2010	6ACV03	2.16[9]	S06AE03
+92	4	"Proposition Infinity"	Crystal Chesney-Thompson	Michael Rowe	July 8, 2010	6ACV04	2.01[10]	S06AE04
+93	5	"The Duh-Vinci Code"	Raymie Muzquiz	Maiya Williams	July 15, 2010	6ACV05	2.20[11]	S06AE05
+94	6	"Lethal Inspection"	Ray Claffey	Eric Horsted	July 22, 2010	6ACV06	1.92[12]	S06AE06
+95	7	"The Late Philip J. Fry"	Peter Avanzino	Lewis Morton	July 29, 2010	6ACV07	2.05[13]	S06AE07
+96	8	"That Darn Katz!"	Frank Marino	Josh Weinstein	August 5, 2010	6ACV08	1.95[14]	S06AE08
+97	9	"A Clockwork Origin"	Dwayne Carey-Hill	Dan Vebber	August 12, 2010	6ACV09	1.96[15]	S06AE09
+98	10	"The Prisoner of Benda"	Stephen Sandoval	Ken Keeler	August 19, 2010	6ACV10	1.77[16]	S06AE10
+99	11	"Lrrreconcilable Ndndifferences"	Crystal Chesney-Thompson	Patric M. Verrone	August 26, 2010	6ACV11	1.98[17]	S06AE11
+100	12	"The Mutants Are Revolting"	Raymie Muzquiz	Eric Horsted	September 2, 2010	6ACV12	1.79[18]	S06AE12
+101	13	"The Futurama Holiday Spectacular"	Ray Claffey	Michael Rowe	November 21, 2010	6ACV13	1.30[19]	S06AE13
+Part 2
+102	14	"The Silence of the Clamps"	Frank Marino	Eric Rogers	July 14, 2011	6ACV14	1.41[20]	S06BE05
+103	15	"Möbius Dick"	Dwayne Carey-Hill	Dan Vebber	August 4, 2011	6ACV15	1.46[21]	S06BE08
+104	16	"Law and Oracle"	Stephen Sandoval	Josh Weinstein	July 7, 2011	6ACV16	1.55[22]	S06BE04
+105	17	"Benderama"	Crystal Chesney-Thompson	Aaron Ehasz	June 23, 2011	6ACV17	2.47[23]	S06BE02
+106	18	"The Tip of the Zoidberg"	Raymie Muzquiz	Ken Keeler	August 18, 2011	6ACV18	1.38[24]	S06BE10
+107	19	"Ghost in the Machines"	Ray Claffey	Patric M. Verrone	June 30, 2011	6ACV19	1.92[25]	S06BE03
+108	20	"Neutopia"	Edmund Fong	J. Stewart Burns	June 23, 2011	6ACV20	2.50[23]	S06BE01
+109	21	"Yo Leela Leela"	Frank Marino	Eric Horsted	July 21, 2011	6ACV21	1.41[26]	S06BE06
+110	22	"Fry Am the Egg Man"	Dwayne Carey-Hill	Michael Rowe	August 11, 2011	6ACV22	1.46[27]	S06BE09
+111	23	"All the Presidents' Heads"	Stephen Sandoval	Josh Weinstein	July 28, 2011	6ACV23	1.49[28]	S06BE07
+112	24	"Cold Warriors"	Crystal Chesney-Thompson	Dan Vebber	August 25, 2011	6ACV24	1.52[29]	S06BE11
+113	25	"Overclockwise"	Raymie Muzquiz	Ken Keeler	September 1, 2011	6ACV25	1.57[30]	S06BE12
+114	26	"Reincarnation"	Peter Avanzino	Aaron Ehasz	September 8, 2011	6ACV26	1.48[31]	S06BE13
+115	1	"The Bots and the Bees"	Stephen Sandoval	Eric Horsted	June 20, 2012	7ACV01	1.57[32]	S07AE01
+116	2	"A Farewell to Arms"	Raymie Muzquiz	Josh Weinstein	June 20, 2012	7ACV02	1.65[32]	S07AE02
+117	3	"Decision 3012"	Dwayne Carey-Hill	Patric M. Verrone	June 27, 2012	7ACV03	1.45[33]	S07AE03
+118	4	"The Thief of Baghead"	Edmund Fong	Dan Vebber	July 4, 2012	7ACV04	1.07[34]	S07AE04
+119	5	"Zapp Dingbat"	Frank Marino	Eric Rogers	July 11, 2012	7ACV05	1.10[35]	S07AE05
+120	6	"The Butterjunk Effect"	Crystal Chesney-Thompson	Michael Rowe	July 18, 2012	7ACV06	1.19[36]	S07AE06
+121	7	"The Six Million Dollar Mon"	Peter Avanzino	Ken Keeler	July 25, 2012	7ACV07	1.19[37]	S07AE07
+122	8	"Fun on a Bun"	Stephen Sandoval	Dan Vebber	August 1, 2012	7ACV08	1.01[38]	S07AE08
+123	9	"Free Will Hunting"	Raymie Muzquiz	David X. Cohen	August 8, 2012	7ACV09	0.99[39]	S07AE09
+124	10	"Near-Death Wish"	Lance Kramer	Eric Horsted	August 15, 2012	7ACV10	1.18[40]	S07AE10
+125	11	"31st Century Fox"	Edmund Fong	Patric M. Verrone	August 29, 2012	7ACV11	1.35[41]	S07AE12
+126	12	"Viva Mars Vegas"	Frank Marino	Josh Weinstein	August 22, 2012	7ACV12	1.07[42]	S07AE11
+127	13	"Naturama"	Crystal Chesney-Thompson	Eric Rogers Michael Saikin Neil Mukhopadhyay	August 29, 2012	7ACV13	1.36[41]	S07AE13
+128	14	"Forty Percent Leadbelly"	Stephen Sandoval	Ken Keeler	July 3, 2013	7ACV14	0.81[43]	S07BE04
+129	15	"2-D Blacktop"	Raymie Muzquiz	Michael Rowe	June 19, 2013	7ACV15	1.40[44]	S07BE01
+130	16	"T.: The Terrestrial"	Lance Kramer	Josh Weinstein	June 26, 2013	7ACV16	1.02[45]	S07BE03
+131	17	"Fry and Leela's Big Fling"	Edmund Fong	Eric Rogers	June 19, 2013	7ACV17	1.49[44]	S07BE02
+132	18	"The Inhuman Torch"	Frank Marino	Dan Vebber	July 10, 2013	7ACV18	1.43[46]	S07BE05
+133	19	"Saturday Morning Fun Pit"	Crystal Chesney-Thompson	Patric M. Verrone	July 17, 2013	7ACV19	1.13[47]	S07BE06
+134	20	"Calculon 2.0"	Stephen Sandoval	Lewis Morton	July 24, 2013	7ACV20	1.23[48]	S07BE07
+135	21	"Assie Come Home"	Raymie Muzquiz	Maiya Williams	July 31, 2013	7ACV21	1.19[49]	S07BE08
+136	22	"Leela and the Genestalk"	Lance Kramer	Eric Horsted	August 7, 2013	7ACV22	1.36[50]	S07BE09
+137	23	"Game of Tones"	Edmund Fong	Michael Rowe	August 14, 2013	7ACV23	1.07[51]	S07BE10
+138	24	"Murder on the Planet Express"	Frank Marino	Lewis Morton	August 21, 2013	7ACV24	1.04[52]	S07BE11
+139	25	"Stench and Stenchibility"	Crystal Chesney-Thompson	Eric Horsted	August 28, 2013	7ACV25	1.40[53]	S07BE12
+140	26	"Meanwhile"	Peter Avanzino	Ken Keeler	September 4, 2013	7ACV26	2.21[54]	S07BE13
